@@ -1,0 +1,58 @@
+/*Limpar formatações padrão*/
+* {
+	margin: 0;
+	padding: 0;
+}
+
+
+
+/* ------------- Leyout -------------- */
+
+.area1{
+    width: 760px;
+    float: left;
+}
+.area2{
+    width: 340px;
+    float: right;
+    text-align: center;
+}
+
+.area1, .area2{
+    background: #2D3046;
+}
+
+
+
+/* ---------- Botão -----------*/
+
+.botao{
+    background: #1AD9A6;
+}
+
+
+
+/* ----- Formatação geral ---------- */
+
+h1, h3{
+    color: #FF3858;
+}
+
+p{
+    color: white;
+    text-align: left;
+}
+
+body {
+	font-size: 1em;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background-color: #25293E;
+
+}
+
+.borda{
+    border: 20px solid #25293E;
+}
+
+
+
